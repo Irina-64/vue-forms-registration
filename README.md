@@ -2,6 +2,8 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+Модуль 1. Frontend --> 4. Запросы к API --> Задание 2. Форма регистрации. Подключение к Firebase
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
